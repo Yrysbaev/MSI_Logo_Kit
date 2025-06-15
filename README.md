@@ -24,3 +24,6 @@ This repository contains official logo files for MSI Corporation.
 
 - Do not stretch or alter the logo proportions.
 - Maintain clear space around the logo.
+
+## Primary logo on dark background
+<img src="PNG/MSI_DarkNavy.png" width="300" />
